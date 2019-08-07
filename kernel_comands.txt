@@ -1,0 +1,8 @@
+depmod - Create a module dependency list.
+insmod	- Install a module.
+modinfo - Display information about a module.
+lsmod	- List installed modules.
+modprobe - Load or list loadable modules.
+rmmod - Remove specified module.
+sysctl - Configure kernel parameters at runtime.
+uname - Display system information.
